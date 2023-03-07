@@ -1,4 +1,9 @@
-h1{
+body{
+background-color: #DDB9A3;
+
+}
+
+h1 {
 text-align: center;
 font-family: 'Gaegu', cursive;
 margin: 20px 0;
@@ -13,9 +18,9 @@ text-align: center;
 }
 img.yuvarlak{
 border-radius: 50%;
-height: 350px;
-width: 350px;
-object-fit: cover;
+height: 450px;
+width: 450px;
+object-fit:initial;
 margin: auto;
 
 
@@ -51,10 +56,10 @@ margin: auto;
     font-size: 20px;
  
     position: absolute;
-    right:1100px;
+    right:47%;
   
 }
-.üstbaşlık nav ul li2{
+.üstbaşlık nav ul li2 {
 
 
     margin: 0 10px;
@@ -69,7 +74,7 @@ margin: auto;
     text-align: end;
     font-size: 20px;
     position: absolute;
-    right:100px;
+    right:5%;
 }
 .arasöz {
 
@@ -97,16 +102,16 @@ display: block;
     font-style: oblique;
     width: fit-content;
     margin: auto;
-    display: block;
+   
 
 }
 img.peribacası{
 width: 100%;
 
+
 }
 .tanıtım{
-background-color:bisque
-
+background-color:#F9E7DC
 
 
 }
