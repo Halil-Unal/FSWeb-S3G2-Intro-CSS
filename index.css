@@ -9,7 +9,7 @@ font-family: 'Gaegu', cursive;
 margin: 20px 0;
 font-size: 60px;
 }
-.altbaşlık{
+.altbaşlık p{
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 margin: 20px 0;
 font-size: 30px;
@@ -83,8 +83,9 @@ color: white;
 font-size: 25px;
 margin: 20px 0;
 font-family: 'Times New Roman', Times, serif;
-font-weight: 400;
+font-weight: 20%;
 font-style: italic;
+width: fit-content;
 
 
 }
@@ -102,7 +103,7 @@ display: block;
     font-style: oblique;
     width: fit-content;
     margin: auto;
-   
+   width: 25%;
 
 }
 img.peribacası{
