@@ -1,0 +1,137 @@
+h1{
+text-align: center;
+font-family: 'Gaegu', cursive;
+margin: 20px 0;
+font-size: 60px;
+}
+.altbaşlık{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 20px 0;
+font-size: 30px;
+text-align: center;
+
+}
+img.yuvarlak{
+border-radius: 50%;
+height: 350px;
+width: 350px;
+object-fit: cover;
+
+
+}
+.üstbaşlık nav ul li {
+    margin: 0 10px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background-color: #E79947 ;
+    text-align: start;
+    
+
+}
+.üstbaşlık nav ul li1{
+
+
+    margin: 0 10px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background-color: blue;
+    text-align: center;
+  
+}
+.üstbaşlık nav ul li2{
+
+
+    margin: 0 10px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background-color: yellow;
+    text-align: end;
+
+}
+.arasöz {
+
+background-color: chocolate;
+color: white;
+font-size: 25px;
+margin: 20px 0;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 400;
+font-style: italic;
+
+
+}
+.balon{
+text-align:center;
+font-size: 20px;
+font-style: oblique;
+width: fit-content;
+
+}
+.bike{
+    text-align:center;
+    font-size: 20px;
+    font-style: oblique;
+    width: fit-content;
+
+}
+img.peribacası{
+width: 100%;
+height: 10%;
+border: 1px solid;
+}
+
+.tanıtım nav ul li{
+    margin: 0 10px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background-color: #E79947 ;
+    text-align: start;
+
+}
+.tanıtım nav ul li1{
+
+    margin: 0 10px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background-color: blue;
+    text-align: center;
+}
+.tanıtım nav ul li2{
+    margin: 0 10px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background-color: yellow;
+    text-align: end;
+
+    
+}
