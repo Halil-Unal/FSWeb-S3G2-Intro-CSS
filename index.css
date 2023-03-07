@@ -1,5 +1,5 @@
 body{
-background-color: #DDB9A3;
+background-color: white;
 
 }
 
@@ -78,7 +78,7 @@ margin: auto;
 }
 .arasöz {
 
-background-color: chocolate;
+background-color:  #DDB9A3;
 color: white;
 font-size: 25px;
 margin: 20px 0;
@@ -107,7 +107,7 @@ display: block;
 }
 img.peribacası{
 width: 100%;
-
+background-image: url("assets/footer_img.jpg");
 
 }
 .tanıtım{
